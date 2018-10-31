@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//dev/Face_RC.py=utf-8
+encoding//dev/configUtil.py=utf-8
+encoding//dev/faceBase64.py=utf-8
+encoding//dev/faceMQSrv.py=utf-8
+encoding//test/Send.py=utf-8
+encoding//test/javaMap.py=utf-8
+encoding//test/phpMQ.py=utf-8
+encoding//test/uniconde.py=utf-8
+encoding/setup.py=utf-8
